@@ -1,0 +1,10 @@
+# SchoolAF Homepage
+
+HTML Webpage of SchoolAF.
+
+## Credits to
+- [particles.js](https://vincentgarreau.com/particles.js/)
+- [typed.js](https://github.com/mattboldt/typed.js/)
+
+## Mentions
+- @laymoth
