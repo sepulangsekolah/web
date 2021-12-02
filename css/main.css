@@ -57,9 +57,13 @@ body {
 }
 
 a:hover {
-  color: rgb(255, 0, 76);
+  color: white;
 }
 
 a {
   color: #f5d389;
+}
+
+.particles-js {
+  min-height: 97vh;
 }
